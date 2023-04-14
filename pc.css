@@ -1,0 +1,418 @@
+body {
+    background-image: url('https://abackpackerstale.com/wp-content/uploads/2020/01/norway-coast.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: sticky;
+    background-attachment: fixed;
+}
+
+.mainhead {
+    text-align: center;
+    font-size: 4em;
+    font-family: monospace;
+    text-decoration: underline;
+    padding-top: 15px;
+}
+
+.motherboard {
+    font-size: 2.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.motherstyle {
+    width: 40em;
+    margin-left: 33.5%;
+    background-color: rgb(105,105,105, 0.5);
+    backdrop-filter: blur(4px);
+    border: 1px solid transparent;
+    margin-top: 3em;
+    border-radius: 2em;
+}
+
+.motherdesc {
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 1.5em;
+    padding-left: 0.5em;
+    padding-right: 1.5em;
+}
+
+.motherpic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cpu {
+    font-size: 2.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.cpustyle {
+    width: 40em;
+    margin-left: 33.5%;
+    background-color: rgb(105,105,105, 0.5);
+    backdrop-filter: blur(4px);
+    border: 1px solid transparent;
+    margin-top: 3em;
+    border-radius: 2em;
+}
+
+.cpudesc {
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 1.5em;
+    padding-left: 0.5em;
+    padding-right: 1.5em;
+}
+
+.cpupic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ram {
+    font-size: 2.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.ramstyle {
+    width: 40em;
+    margin-left: 33.5%;
+    background-color: rgb(105,105,105, 0.5);
+    backdrop-filter: blur(4px);
+    border: 1px solid transparent;
+    margin-top: 3em;
+    border-radius: 2em;
+}
+
+.ramdesc {
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 1.5em;
+    padding-left: 0.5em;
+    padding-right: 1.5em;
+}
+
+.rampic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.computerpower {
+    font-size: 2.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.compterpowerstyle {
+    width: 40em;
+    margin-left: 33.5%;
+    background-color: rgb(105,105,105, 0.5);
+    backdrop-filter: blur(4px);
+    border: 1px solid transparent;
+    margin-top: 3em;
+    border-radius: 2em;
+}
+
+.computerpowerdesc {
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 1.5em;
+    padding-left: 0.5em;
+    padding-right: 1.5em;
+}
+
+.computerpowerpic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.harddrive {
+    font-size: 2.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.harddrivestyle {
+    width: 40em;
+    margin-left: 33.5%;
+    background-color: rgb(105,105,105, 0.5);
+    backdrop-filter: blur(4px);
+    border: 1px solid transparent;
+    margin-top: 3em;
+    border-radius: 2em;
+}
+
+.harddrivedesc {
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 1.5em;
+    padding-left: 0.5em;
+    padding-right: 1.5em;
+}
+
+.harddrivepic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dvddrive {
+    font-size: 2.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.dvddrivestyle {
+    width: 40em;
+    margin-left: 33.5%;
+    background-color: rgb(105,105,105, 0.5);
+    backdrop-filter: blur(4px);
+    border: 1px solid transparent;
+    margin-top: 3em;
+    border-radius: 2em;
+}
+
+.dvddrivedesc {
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 1.5em;
+    padding-left: 0.5em;
+    padding-right: 1.5em;
+}
+
+.dvddrivepic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pccase {
+    font-size: 2.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.pccasestyle {
+    width: 40em;
+    margin-left: 33.5%;
+    background-color: rgb(105,105,105, 0.5);
+    backdrop-filter: blur(4px);
+    border: 1px solid transparent;
+    margin-top: 3em;
+    border-radius: 2em;
+}
+
+.pccasedesc {
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 1.5em;
+    padding-left: 0.5em;
+    padding-right: 1.5em;
+}
+
+.pccasepic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.videocard {
+    font-size: 2.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.videocardstyle {
+    width: 40em;
+    margin-left: 33.5%;
+    background-color: rgb(105,105,105, 0.5);
+    backdrop-filter: blur(4px);
+    border: 1px solid transparent;
+    margin-top: 3em;
+    border-radius: 2em;
+}
+
+.videocarddesc {
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 1.5em;
+    padding-left: 0.5em;
+    padding-right: 1.5em;
+}
+
+.videocardpic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.soundcard {
+    font-size: 2.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.soundcardstyle {
+    width: 40em;
+    margin-left: 33.5%;
+    background-color: rgb(105,105,105, 0.5);
+    backdrop-filter: blur(4px);
+    border: 1px solid transparent;
+    margin-top: 3em;
+    border-radius: 2em;
+}
+
+.soundcarddesc {
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 1.5em;
+    padding-left: 0.5em;
+    padding-right: 1.5em;
+}
+
+.soundcardpic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.netcard {
+    font-size: 2.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.netcardstyle {
+    width: 40em;
+    margin-left: 33.5%;
+    background-color: rgb(105,105,105, 0.5);
+    backdrop-filter: blur(4px);
+    border: 1px solid transparent;
+    margin-top: 3em;
+    border-radius: 2em;
+}
+
+.netcarddesc {
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 1.5em;
+    padding-left: 0.5em;
+    padding-right: 1.5em;
+}
+
+.netcardpic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.keyboard {
+    font-size: 2.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.keyboardstyle {
+    width: 40em;
+    margin-left: 33.5%;
+    background-color: rgb(105,105,105, 0.5);
+    backdrop-filter: blur(4px);
+    border: 1px solid transparent;
+    margin-top: 3em;
+    border-radius: 2em;
+}
+
+.keyboarddesc {
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 1.5em;
+    padding-left: 0.5em;
+    padding-right: 1.5em;
+}
+
+.keyboardpic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mouse {
+    font-size: 2.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.mousestyle {
+    width: 40em;
+    margin-left: 33.5%;
+    background-color: rgb(105,105,105, 0.5);
+    backdrop-filter: blur(4px);
+    border: 1px solid transparent;
+    margin-top: 3em;
+    border-radius: 2em;
+}
+
+.mousedesc {
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 1.5em;
+    padding-left: 0.5em;
+    padding-right: 1.5em;
+}
+
+.mousepic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.monitor {
+    font-size: 2.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.monitorstyle {
+    width: 40em;
+    margin-left: 33.5%;
+    background-color: rgb(105,105,105, 0.5);
+    backdrop-filter: blur(4px);
+    border: 1px solid transparent;
+    margin-top: 3em;
+    border-radius: 2em;
+}
+
+.monitordesc {
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 1.5em;
+    padding-left: 0.5em;
+    padding-right: 1.5em;
+}
+
+.monitorpic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
